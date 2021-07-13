@@ -59,7 +59,6 @@ body{
 @media only screen and (min-width: 689px) and (max-width: 991px){
     .grid{
         grid-template-columns: repeat(2,1fr);
-        border: 1px solid red;
     }
     .card{
         text-align: center;
